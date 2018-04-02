@@ -1,0 +1,43 @@
+2018-02-08 12:47:04: Turning Off Copy Attributes, as one of file systems does not support it
+2018-02-08 12:47:04: Turning Off Copy/Compare Extended Attributes, as one of file systems does not support it
+2018-02-08 12:47:04: Turning Off Copy Original Filesystem Names option, as one of file systems does not support it
+2018-02-08 12:47:04: -- Analysis Started by User Command
+2018-02-08 12:47:06: L: State file does not exist: /Volumes/NICE/Mektep15/Mektep/_gsdata_/_file_state_v4._gs
+2018-02-08 12:47:06: R: State file does not exist: /Users/myrza/Desktop/Mektep/_gsdata_/_file_state_v4._gs
+2018-02-08 12:47:23: /.idea/workspace.xml: Warning: Older file to replace Newer file
+2018-02-08 12:47:24: Changes: 16912, Conflicts: 0, CopyTime: 0, FixState: 62, Errors: 0, All: 16977
+2018-02-08 12:47:24: Left to Right: Copy File: 28 Delete File: 16884 
+2018-02-08 12:47:24: -- Analysis Complete. Time 00:00:20, Speed: 848 files/s
+2018-02-08 12:47:24: 
+2018-02-08 12:48:12: == Sync Started by User Command
+2018-02-08 12:48:13: Delete File '/Users/myrza/Desktop/Mektep/public/loader.png'
+2018-02-08 12:48:14: Create Folder '/Users/myrza/Desktop/Mektep/public/flaticons'
+2018-02-08 12:48:14: Create Folder '/Users/myrza/Desktop/Mektep/public/flaticons/license'
+2018-02-08 12:48:14: Create Folder '/Users/myrza/Desktop/Mektep/public/flaticons/png'
+2018-02-08 12:48:14: Copy Over '/Volumes/NICE/Mektep15/Mektep/.idea/workspace.xml' -> '/Users/myrza/Desktop/Mektep/.idea/workspace.xml' (28712)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/atameken1.jpg' -> '/Users/myrza/Desktop/Mektep/public/atameken1.jpg' (963610)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/atameken2.jpg' -> '/Users/myrza/Desktop/Mektep/public/atameken2.jpg' (94865)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/atameken3.jpg' -> '/Users/myrza/Desktop/Mektep/public/atameken3.jpg' (59441)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/atameken4.jpg' -> '/Users/myrza/Desktop/Mektep/public/atameken4.jpg' (56513)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/docs/license.jpg' -> '/Users/myrza/Desktop/Mektep/public/docs/license.jpg' (1023233)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/flaticons/backup.txt' -> '/Users/myrza/Desktop/Mektep/public/flaticons/backup.txt' (576)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/flaticons/license/license.pdf' -> '/Users/myrza/Desktop/Mektep/public/flaticons/license/license.pdf' (36473)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/flaticons/png/001-man.png' -> '/Users/myrza/Desktop/Mektep/public/flaticons/png/001-man.png' (5428)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/flaticons/png/002-couple.png' -> '/Users/myrza/Desktop/Mektep/public/flaticons/png/002-couple.png' (5506)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/flaticons/png/003-teacher.png' -> '/Users/myrza/Desktop/Mektep/public/flaticons/png/003-teacher.png' (5126)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/kamkorshylyk_kenesi.jpg' -> '/Users/myrza/Desktop/Mektep/public/kamkorshylyk_kenesi.jpg' (106314)
+2018-02-08 12:48:15: Copy New '/Volumes/NICE/Mektep15/Mektep/public/konildi_jaz.jpg' -> '/Users/myrza/Desktop/Mektep/public/konildi_jaz.jpg' (155646)
+2018-02-08 12:48:15: Copy Over '/Volumes/NICE/Mektep15/Mektep/public/logo_2050.png' -> '/Users/myrza/Desktop/Mektep/public/logo_2050.png' (76257)
+2018-02-08 12:48:16: Copy Over '/Volumes/NICE/Mektep15/Mektep/public/logo_rukhani.png' -> '/Users/myrza/Desktop/Mektep/public/logo_rukhani.png' (1365316)
+2018-02-08 12:48:19: Copy New '/Volumes/NICE/Mektep15/Mektep/public/rukhani.jpg' -> '/Users/myrza/Desktop/Mektep/public/rukhani.jpg' (7031382)
+2018-02-08 12:48:20: Copy New '/Volumes/NICE/Mektep15/Mektep/public/tarbie_sagattary.html' -> '/Users/myrza/Desktop/Mektep/public/tarbie_sagattary.html' (36683)
+2018-02-08 12:48:22: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/App.vue' -> '/Users/myrza/Desktop/Mektep/src/App.vue' (10466)
+2018-02-08 12:48:22: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/main.js' -> '/Users/myrza/Desktop/Mektep/src/main.js' (1199)
+2018-02-08 12:48:22: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/pages/About.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/About.vue' (13012)
+2018-02-08 12:48:25: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/pages/Concurse.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/Concurse.vue' (2052)
+2018-02-08 12:48:27: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/pages/Contacts.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/Contacts.vue' (1918)
+2018-02-08 12:48:27: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/pages/Main.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/Main.vue' (9873)
+2018-02-08 12:48:27: Copy Over '/Volumes/NICE/Mektep15/Mektep/src/pages/Structure.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/Structure.vue' (4989)
+2018-02-08 12:48:27: Copy New '/Volumes/NICE/Mektep15/Mektep/src/pages/Tarbie.vue' -> '/Users/myrza/Desktop/Mektep/src/pages/Tarbie.vue' (1770)
+2018-02-08 12:48:27: == Sync Complete. Time: 00:00:15, Speed: 740.7 KB/s, OK: 91, Errors: 0
+2018-02-08 12:48:27: 
